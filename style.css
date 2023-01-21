@@ -1,0 +1,21 @@
+body {
+    font-family: monospace, sans-serif;
+}
+
+h1 {
+    background-color: maroon;
+    color: white;
+    text-align: center;
+    font-weight: 800;
+}
+
+a {
+    color: maroon;
+    font-size: 20px;
+    font-weight: 500;
+}
+
+img {
+    width: 300px;
+    height: auto;
+}
